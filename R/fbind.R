@@ -1,7 +1,7 @@
 #' Bind two factors
 #'
-#' @param a
-#' @param b
+#' @param a factor
+#' @param b factor
 #'
 #' @return factor
 #' @export
